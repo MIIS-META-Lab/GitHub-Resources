@@ -1,6 +1,4 @@
-# teamRepo
-
-## Get started with git and GitHub
+# Get started with git and GitHub
 
 Why git and Github?
 
